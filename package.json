@@ -1,0 +1,9 @@
+{
+  "name": "strafe-aim-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A polished browser-based aim trainer",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
